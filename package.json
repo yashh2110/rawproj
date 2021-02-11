@@ -1,0 +1,19 @@
+{
+  "name": "rawproj",
+  "version": "1.0.0",
+  "description": "its a raw proj",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashh2110/rawproj.git"
+  },
+  "author": "yashh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yashh2110/rawproj/issues"
+  },
+  "homepage": "https://github.com/yashh2110/rawproj#readme"
+}
